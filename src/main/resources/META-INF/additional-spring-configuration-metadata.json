@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "logback.appname",
+      "type": "java.lang.String",
+      "description": "用来确定应用名称"
+    }
+  ] }
