@@ -5,7 +5,7 @@ Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目
 
 [![请选择超清](https://raw.githubusercontent.com/lihengming/java-codes/master/shared-resources/github-images/project-example-youku.png)](http://v.youku.com/v_show/id_XMjg1NjYwNDgxNg==.html?spm=a2h3j.8428770.3416059.1)
 
-#修改!!!
+# 修改!!!
 * 个人闲来无事，稍作修改，添加了aop切面的日志记录，具体可以自行查看。
 * mysql驱动更换，生成代码的时候需要根据自己的版本更换driverClass。
 * 将spring boot 版本换成了最新2.1.6.RELEASE。
@@ -52,4 +52,4 @@ Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目
 - 其他略
 
 ## License
-无，纯粹开源分享，感谢大家 [Star](https://github.com/lihengming/spring-boot-api-project-seed/stargazers) & [Fork](https://github.com/lihengming/spring-boot-api-project-seed/network/members) 的支持。
+无，纯粹开源分享，感谢大家 [Star](https://github.com/lihengming/spring-boot-api-project-seed/stargazers) 
