@@ -8,7 +8,7 @@ Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目
 # 修改!!!
 * 个人闲来无事，稍作修改，添加了aop切面的日志记录，具体可以自行查看。
 * mysql驱动更换，生成代码的时候需要根据自己的版本更换driverClass。
-* 将spring boot 版本换成了最新2.1.6.RELEASE。
+* 将spring boot 版本换成了最新2.2.6.RELEASE。
 * POM文件中应该存在一些传递依赖，如果有必要，请自我优化。
 * 如果有需要可以自行修改，优化~~
 
